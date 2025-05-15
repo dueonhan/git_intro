@@ -10,8 +10,21 @@ git init
 ```
 
 
-```
+```bash
 git add .
 git commit -m "Added new file"
 git push
 ```
+
+```bash
+
+git branch
+git switch main
+```
+
+
+
+## Presentation
+
+presentation will be on May 16. Quiz will follow afterward.
+
